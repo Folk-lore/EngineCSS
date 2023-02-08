@@ -122,7 +122,6 @@
 .homeClass {
   background: rgb(0, 0, 0);
   color: white;
-  height: 100vh;
   padding: 10%;
   display: flex;
   flex-direction: column;
