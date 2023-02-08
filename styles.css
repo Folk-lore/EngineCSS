@@ -39,13 +39,13 @@
   border: none;
 }
 
-.nameContainer,
-.descriptionContainer {
+.titleContainer,
+.summaryContainer {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-.descriptionContainer {
+.summaryContainer {
   align-items: flex-start;
 }
 
