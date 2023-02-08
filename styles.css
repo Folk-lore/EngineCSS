@@ -130,6 +130,7 @@
 }
 .homeClass h2{
     text-transform: uppercase;
+    margin-bottom: 15px;
 }
 
 .cardContainer {
@@ -153,6 +154,7 @@
     rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
   align-items: center;
   border: 1px solid rgba( 255, 255, 255, 0.18 );
+  margin-bottom: 15px;
 }
 
 .card:hover {
